@@ -1,7 +1,6 @@
 # PseudoDist
-A distribute key-value store using zookeeper
+A distributed key-value store using zookeeper
 
-Done by: Aditya R, Aneesh Bhat, Animesh ND and Ishaan Lodha
 # Project Description
 The project was to make a distributed key value store using zookeeper. The nodes used were physical systems. One running client code, other's running server code, and one being the zookeeper server. 
 
